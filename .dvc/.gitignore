@@ -1,2 +1,5 @@
 .idea
 mydata/*.txt
+/config.local
+/tmp
+/cache
